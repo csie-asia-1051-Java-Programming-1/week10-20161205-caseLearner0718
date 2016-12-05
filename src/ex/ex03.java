@@ -4,12 +4,13 @@
  * Date: 2016/12/05
  * Author: 1050210XX 周永振老師
  */
-
+import java.util.Scanner;
+import java.util.ArrayList;
 public class ex03 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		System.out.println();
 	}
 
 }
